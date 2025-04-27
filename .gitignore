@@ -1,0 +1,10 @@
+# Ignore object files
+*.o
+
+# Ignore assembly output files
+*.out
+
+# Ignore executable files
+*.exe
+
+*.Zone.Identifier
